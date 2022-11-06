@@ -1,7 +1,7 @@
 <template>
   <v-app class="main-bg">
     <v-main>
-      <my-header />
+      <my-header class="test" />
       <vue-page-transition name="fade">
         <router-view class="pt-12"
       /></vue-page-transition>
